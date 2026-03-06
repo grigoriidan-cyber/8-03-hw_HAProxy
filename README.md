@@ -68,4 +68,5 @@ backend be_unavailable
         http-request deny deny_status 503
 ```
 ![](img/2.png)
+![](img/3.png)
 ---
